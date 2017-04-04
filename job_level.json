@@ -1,0 +1,30 @@
+ 
+{ 
+  "job_level": [
+    {
+      "id": 1,
+      "name": "asystent"
+     },
+    {
+      "id": 2,
+      "name": "kierownik"
+     },
+    {
+      "id": 3,
+      "name": "zastępca"
+     }
+
+
+    
+    ] 
+}
+
+
+
+
+
+
+
+
+
+ 

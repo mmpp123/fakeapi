@@ -1,12 +1,15 @@
-{ 
+{
   "users": [
     {
       "id": 0,
       "login": "JohnM",
       "position": "doradca handlowy",
-      "position_level": "kierownik",
+      "position_level": {
+        "name": "kierownik",
+        "id": 2
+      },
       "industry": "motoryzacja",
-      "employer": "BMW",
+      "employer": "gggBMW",
       "summary": "loremipsum",
       "phone": 5555555,
       "country": "Polska",
@@ -14,14 +17,14 @@
       "city": "Warszawa",
       "street": "Mazowiecka",
       "language": [
-      	   {
-      	   	   "name": "angielski",
-      	   	   "level": "podstawowy"
-      	   },
-      	   {
-      	   	   "name": "francuski",
-      	   	   "level": "zaawansowany"
-      	   }
+        {
+          "name": "angielski",
+          "level": "podstawowy"
+        },
+        {
+          "name": "francuski",
+          "level": "zaawansowany"
+        }
       ],
       "facebook_login": "lorem",
       "twitter_login": "lorem",
@@ -31,12 +34,16 @@
       "lm_link": "http://",
       "photo": "",
       "email": "lorem@lorem.pl",
-      "gender": "Pani",
+      "gender": {
+        "value": 1,
+        "name": "Pani"
+      },
       "name": "Jan",
       "surname": "Kowalski",
-      "birthday": "1990-23-12"
-     },
-
+      "birthday": "1990-23-12",
+      "notification1": true,
+      "notification2": false
+    },
     {
       "id": 1,
       "login": "RobertM",
@@ -51,14 +58,14 @@
       "city": "Wroclaw",
       "street": "Mazowiecka",
       "language": [
-      	   {
-      	   	   "name": "angielski",
-      	   	   "level": "podstawowy"
-      	   },
-      	   {
-      	   	   "name": "francuski",
-      	   	   "level": "zaawansowany"
-      	   }
+        {
+          "name": "angielski",
+          "level": "podstawowy"
+        },
+        {
+          "name": "francuski",
+          "level": "zaawansowany"
+        }
       ],
       "facebook_login": "lorem",
       "twitter_login": "lorem",
@@ -71,7 +78,9 @@
       "gender": "Pan",
       "name": "Jan",
       "surname": "Kowalski",
-      "birthday": "1990-23-12"
-     }
-    ] 
+      "birthday": "1990-23-12",
+      "notification1": false,
+      "notification2": false
+    }
+  ]
 }
