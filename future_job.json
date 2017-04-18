@@ -1,0 +1,77 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "position": [
+          {
+            "name:": "sekretarka",
+            "id": 1
+          },
+          {
+            "name": "mechanik",
+            "id": 2
+
+          } 
+      ],
+      "position_level": [
+          {
+            "name": "asystent",
+            "id": 1
+          }
+
+      ],
+      "message": "Lorem ipsum",
+      "dealers_choose": [
+          {
+            "city": "Wrocław",
+            "distance": "100km",
+            "brand": [
+              {
+                "name": "BMW",
+                "id": 1
+              },
+              {
+                "name": "Opel",
+                "id": 2
+              }
+            ],
+            "dealers_name": [
+              {
+                "name": "Adamowscy",
+                "id": 1
+              }
+            ]
+          },
+          {
+          "city": "Warszawa",
+          "distance": "150km",
+          "brand": [
+            {
+              "name": "Mercedes",
+              "id": 3
+            },
+            {
+              "name": "Renault",
+              "id": 4
+            }
+          ],
+            "dealers_name": [
+              {
+                "name": "Lorem",
+                "id": 2
+              }
+        
+            ]
+          }
+        ]
+    
+ 
+    }
+  ]
+}
+
+
+
+
+
+ 

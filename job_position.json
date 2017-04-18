@@ -1,0 +1,30 @@
+ 
+{ 
+  "job_position": [
+    {
+      "id": 1,
+      "name": "mechanik"
+     },
+    {
+      "id": 2,
+      "name": "sekretarka"
+     },
+    {
+      "id": 3,
+      "name": "pracownik biurowy"
+     }
+
+
+    
+    ] 
+}
+
+
+
+
+
+
+
+
+
+ 

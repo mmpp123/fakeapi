@@ -2,15 +2,15 @@
 { 
   "job_level": [
     {
-      "id": 1,
-      "name": "asystent"
-     },
-    {
-      "id": 2,
+      "value": 1,
       "name": "kierownik"
      },
     {
-      "id": 3,
+      "value": 2,
+      "name": "asystent"
+     },
+    {
+      "value": 3,
       "name": "zastępca"
      }
 
