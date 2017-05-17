@@ -3,18 +3,15 @@
     {
       "id": 0,
       "login": "JohnM",
-      "position": "mmmfffbbb",
-      "position_level": {
-        "name": "zastepca",
-        "value": 2
-      },
-      "industry": "aaaaaacfccssmotoryzacja",
-      "employer": "bbbmwwwk",
+      "position": "dyrektor",
+      "position_level": 1,
+      "industry": "motoryzacja",
+      "employer": "BMW",
       "summary": "loremipsum",
-      "phone": "5555555",
+      "phone": "333333333",
       "country": "Nepal",
       "postcode": "dds",
-      "city": "Warszawa",
+      "city": "Warszawasss",
       "street": "Mazowiecka",
       "language": [
         {
@@ -34,10 +31,8 @@
       "lm_link": "http://",
       "photo": "",
       "email": "lorem@lorem.pl",
-      "gender": {
-        "value": 1,
-        "name": "Pani"
-      },
+      "gender": 1,
+ 
       "name": "aaaa",
       "surname": "Kowalski",
       "birthday": "1990-23-12",
@@ -49,7 +44,7 @@
       "id": 1,
       "login": "RobertM",
       "position": "sekretarka",
-      "position_level": "asystent",
+      "position_level": "2",
       "industry": "Motoryzacja",
       "employer": "BMW",
       "summary": "loremipsum",
@@ -76,7 +71,7 @@
       "lm_link": "http://",
       "photo": "",
       "email": "lorem@lorem.pl",
-      "gender": "Pan",
+      "gender": 2,
       "name": "Jan",
       "surname": "Kowalski",
       "birthday": "1990-23-12",
