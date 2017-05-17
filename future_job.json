@@ -13,6 +13,7 @@
 
           } 
       ],
+      "additional_position": "kurier",
       "position_level": [
           {
             "name": "asystent",
