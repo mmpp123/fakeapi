@@ -26,51 +26,32 @@
           {
             "city": "Wrocław",
             "distance": "100km",
-            "brand": [
-              {
-                "name": "BMW",
-                "id": 1
-              },
-              {
-                "name": "Opel",
-                "id": 2
-              }
-            ],
-            "dealers_name": [
-              {
-                "name": "Adamowscy",
-                "id": 1
-              }
+            "brands": [
+                     "BMW",
+                      "Opel",
+                      "Adamowscy"
+ 
             ]
           },
           {
-          "city": "Warszawa",
-          "distance": "150km",
-          "brand": [
-            {
-              "name": "Mercedes",
-              "id": 3
-            },
-            {
-              "name": "Renault",
-              "id": 4
-            }
-          ],
-            "dealers_name": [
-              {
-                "name": "Lorem",
-                "id": 2
-              }
-        
+         
+            "city": "Wrocław",
+            "distance": "100km",
+            "brands": [
+                     "BMW",
+                      "Opel",
+                      "Adamowscy"
+ 
             ]
+          }
+          ]
+ 
           }
         ]
     
  
     }
-  ]
-}
-
+ 
 
 
 

@@ -4,15 +4,12 @@
       "id": 0,
       "login": "JohnM",
       "position": "dyrektor",
-      "position_level": {
-        "name": "zastepca",
-        "value": 2
-      },
+      "position_level": "kierownik",
       "industry": "motoryzacja",
       "employer": "BMW",
       "summary": "loremipsum",
       "phone": "333333333",
-      "country": "Martynika",
+      "country": "Kambodża",
       "postcode": "dds",
       "city": "Warszawasss",
       "street": "Mazowiecka",
@@ -34,25 +31,19 @@
       "lm_link": "http://",
       "photo": "",
       "email": "lorem@lorem.pl",
-      "gender": {
-        "name": "kobieta",
-        "value": 2
-      },
+      "gender": "kobieta",
       "name": "aaaa",
       "surname": "Kowalski",
       "birthday": "+011111-11-10T23:00:00.000Z",
       "notification1": true,
-      "notification2": false,
-      "undefined": "werfffbbb"
+      "notification2": false
+ 
     },
     {
       "id": 1,
       "login": "RobertM",
       "position": "sekretarka",
-      "position_level": {
-        "name": "zastepca",
-        "value": 3
-      },
+      "position_level": "zastępca",
       "industry": "Motoryzacja",
       "employer": "BMW",
       "summary": "loremipsum",
@@ -79,10 +70,7 @@
       "lm_link": "http://",
       "photo": "",
       "email": "lorem@lorem.pl",
-      "gender": {
-        "name": "kobieta",
-        "value": 2
-      },
+      "gender": "kobieta",
       "name": "Jan",
       "surname": "Kowalski",
       "birthday": "1990-23-12",
