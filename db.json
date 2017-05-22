@@ -3,11 +3,11 @@
     {
       "id": 0,
       "login": "JohnM",
-      "position": "dyrektor",
-      "position_level": "kierownik",
+      "position": "dyrektora",
+      "position_level": "asystent",
       "industry": "motoryzacja",
       "employer": "BMW",
-      "summary": "loremipsum",
+      "summary": "blablblalblab",
       "phone": "333333333",
       "country": "Kambodża",
       "postcode": "dds",
@@ -15,12 +15,16 @@
       "street": "Mazowiecka",
       "language": [
         {
-          "name": "angielskisss",
-          "level": "podstawowy"
+          "name": "podstawowy",
+          "level": "sredniozaawansowany"
         },
         {
           "name": "francuski",
-          "level": "zaawansowany"
+          "level": "podstawowy"
+        },
+        {
+          "name": "",
+          "level": "podstawowy"
         }
       ],
       "facebook_login": "fflorem",
@@ -31,13 +35,13 @@
       "lm_link": "http://",
       "photo": "",
       "email": "lorem@lorem.pl",
-      "gender": "kobieta",
+      "gender": "Pan",
       "name": "aaaa",
       "surname": "Kowalski",
-      "birthday": "+011111-11-10T23:00:00.000Z",
-      "notification1": true,
-      "notification2": false
- 
+      "birthday": "1990-02-22T23:00:00.000Z",
+      "notification1": false,
+      "notification2": false,
+      "notification3": false
     },
     {
       "id": 1,

@@ -4,20 +4,17 @@
       "id": 0,
       "position": [
           {
-            "name:": "sekretarka",
-            "id": 1
+            "name:": "sekretarka"
           },
           {
-            "name": "mechanik",
-            "id": 2
+            "name": "mechanik"
 
           } 
       ],
       "additional_position": "kurier",
       "position_level": [
           {
-            "name": "asystent",
-            "id": 1
+            "name": "asystent"
           }
 
       ],
