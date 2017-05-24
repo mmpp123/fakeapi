@@ -1,0 +1,33 @@
+ 
+{ 
+  "job": [
+    {
+      "name": "mechanik",
+      "id": 1,
+      "levels": [ { "name": "praktykant",
+                    "id": 1
+                  },
+                  { "name": "stażysta",
+                    "id": 2
+                  },
+                ]
+     },
+    {
+      "name": "doradca handlowy",
+      "id": 2,
+      "levels": [ { "name": "kierownik",
+                    "id": 3
+                  },
+                  { "name": "dyrektor",
+                    "id": 4
+                  },
+                ]
+     },
+ 
+    ] 
+}
+
+
+
+
+

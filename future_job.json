@@ -2,22 +2,11 @@
   "users": [
     {
       "id": 0,
-      "position": [
-          {
-            "name:": "sekretarka"
-          },
-          {
-            "name": "mechanik"
-
-          } 
-      ],
+      "position": ["sekretarka", "mechanik"],
+ 
       "additional_position": "kurier",
-      "position_level": [
-          {
-            "name": "asystent"
-          }
-
-      ],
+      "position_level": ["asystent"],
+ 
       "message": "Lorem ipsum",
       "dealers_choose": [
           {
