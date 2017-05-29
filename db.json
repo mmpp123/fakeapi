@@ -1,85 +1,44 @@
 {
-  "users": [
-    {
-      "id": 0,
-      "login": "JohnM",
-      "position": "dyrektorasdcadfs",
-      "position_level": "asystent",
-      "industry": "motoryzacja",
-      "employer": "BMW",
-      "summary": "blablblalblab",
-      "phone": "333333333",
-      "country": "Kambodża",
-      "postcode": "dds",
-      "city": "Warszawasss",
-      "street": "Mazowiecka",
-      "language": [
-        {
-          "name": "podstawowy",
-          "level": "sredniozaawansowany"
-        },
-        {
-          "name": "francuski",
-          "level": "podstawowy"
-        },
-        {
-          "name": "",
-          "level": "podstawowy"
-        }
-      ],
-      "facebook_login": "fflorem",
-      "twitter_login": "lorem",
-      "linkedin_login": "lorem",
-      "google_login": "lorem",
-      "cv_link": "http://",
-      "lm_link": "http://",
-      "photo": "",
-      "email": "lorem@lorem.pl",
-      "gender": "Pan",
-      "name": "aaaa",
-      "surname": "Kowalski",
-      "birthday": "1990-02-22T23:00:00.000Z",
-      "notification1": false,
-      "notification2": false,
-      "notification3": false
-    },
-    {
-      "id": 1,
-      "login": "RobertM",
-      "position": "sekretarka",
-      "position_level": "zastępca",
-      "industry": "Motoryzacja",
-      "employer": "BMW",
-      "summary": "loremipsum",
-      "phone": 5555555,
-      "country": "Polska",
-      "postcode": "30-100",
-      "city": "Wroclaw",
-      "street": "Mazowiecka",
-      "language": [
-        {
-          "name": "angielski",
-          "level": "podstawowy"
-        },
-        {
-          "name": "francuski",
-          "level": "zaawansowany"
-        }
-      ],
-      "facebook_login": "lorem",
-      "twitter_login": "lorem",
-      "linkedin_login": "lorem",
-      "google_login": "lorem",
-      "cv_link": "http://",
-      "lm_link": "http://",
-      "photo": "",
-      "email": "lorem@lorem.pl",
-      "gender": "kobieta",
-      "name": "Jan",
-      "surname": "Kowalski",
-      "birthday": "1990-23-12",
-      "notification1": false,
-      "notification2": false
-    }
-  ]
+  "user": {
+    "login": "JohnM",
+    "position": "dyrektor",
+    "position_level": "asystent",
+    "industry": "motoryzacja",
+    "employer": "BMW",
+    "summary": "blablblalblab",
+    "phone": "333333333",
+    "country": "Kambodża",
+    "postcode": "dds",
+    "city": "Warszawasss",
+    "street": "Mazowiecka",
+    "language": [
+      {
+        "name": "podstawowy",
+        "level": "sredniozaawansowany"
+      },
+      {
+        "name": "francuski",
+        "level": "podstawowy"
+      },
+      {
+        "name": "",
+        "level": "podstawowy"
+      }
+    ],
+    "facebook_login": "fflorem",
+    "twitter_login": "lorem",
+    "linkedin_login": "lorem",
+    "google_login": "lorem",
+    "cv_link": "http://",
+    "lm_link": "http://",
+    "photo": "",
+    "email": "lorem@lorem.pl",
+    "gender": "Pan",
+    "name": "aaaa",
+    "surname": "Kowalski",
+    "birthday": "1990-02-22T23:00:00.000Z",
+    "notification1": false,
+    "notification2": false,
+    "notification3": false
+  }
 }

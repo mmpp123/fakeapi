@@ -1,45 +1,19 @@
 {
-  "users": [
-    {
-      "id": 0,
-      "position": ["sekretarka", "mechanik"],
- 
-      "additional_position": "kurier",
-      "position_level": ["asystent"],
- 
-      "message": "Lorem ipsum",
-      "dealers_choose": [
-          {
-            "city": "Wrocław",
-            "distance": "100km",
-            "brands": [
-                     "BMW",
-                      "Opel",
-                      "Adamowscy"
- 
-            ]
-          },
-          {
-         
-            "city": "Wrocław",
-            "distance": "100km",
-            "brands": [
-                     "BMW",
-                      "Opel",
-                      "Adamowscy"
- 
-            ]
-          }
-          ]
- 
-          }
+  "job_preferences": {
+    "position": [],
+    "additional_position": "fsdfsdfsdf",
+    "position_level": [
+      [
+        [
+          "asystent"
         ]
-    
- 
-    }
- 
-
-
-
-
- 
+      ],
+      [
+        [
+          "zastępca"
+        ]
+      ]
+    ],
+    "message": "fdsfsdfsdf vvvvvvvvvvvvvddads"
+  }
+}
