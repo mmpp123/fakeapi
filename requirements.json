@@ -1,0 +1,100 @@
+ 
+{ 
+  "requirements": [
+    {
+      "id": 1,
+      "name": "Autoalarm"
+     },
+    {
+      "id": 2,
+      "name": "Automatyczna skrzynia biegów"
+     },
+    {
+      "id": 3,
+      "name": "Aluminiowe felgi"
+     },
+    {
+      "id": 4,
+      "name": "Centralny zamek"
+     },
+    {
+      "id": 5,
+      "name": "Czujniki cofania"
+     },
+    {
+      "id": 6,
+      "name": "Dzielona tylna kanapa"
+     },
+    {
+      "id": 7,
+      "name": "Elektryczne lusterka"
+     },
+    {
+      "id": 8,
+      "name": "Elektryczne szyby"
+     },
+    {
+      "id": 9,
+      "name": "Hak holowniczy"
+     },
+    {
+      "id": 10,
+      "name": "Halogeny"
+     },
+    {
+      "id": 11,
+      "name": "Kamera cofania"
+     },
+    {
+      "id": 12,
+      "name": "Klimatyzacja"
+     },
+    {
+      "id": 13,
+      "name": "Koła zimowe"
+     },
+    {
+      "id": 14,
+      "name": "Nawigacja"
+     },
+    {
+      "id": 15,
+      "name": "Skórzana tapicerka"
+     },
+    {
+      "id": 16,
+      "name": "Szyberdach"
+     },
+    {
+      "id": 17,
+      "name": "Podgrzewane fotele"
+     },
+    {
+      "id": 17,
+      "name": "Termpomat"
+     },
+    {
+      "id": 17,
+      "name": "Wentylowane fotele"
+     }
+    
+    ] 
+}
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
