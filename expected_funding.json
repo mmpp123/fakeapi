@@ -1,0 +1,28 @@
+ 
+{ 
+  "expected_funding": [
+    {
+      "id": 1,
+      "name": "Brak"
+     },
+    {
+      "id": 2,
+      "name": "Gotówka"
+     },
+    {
+      "id": 3,
+      "name": "Kredyt"
+     },
+    {
+      "id": 4,
+      "name": "Leasing"
+     },
+    {
+      "id": 5,
+      "name": "Wynajem długoterminowy"
+     }
+    
+    ] 
+}
+
+
