@@ -1,0 +1,28 @@
+ 
+{ 
+  "client_type": [
+    {
+      "id": 1,
+      "name": "Indywidualny"
+     },
+    {
+      "id": 2,
+      "name": "Firma do 10 zatrudnionych"
+     },
+    {
+      "id": 3,
+      "name": "Firma do 11-50 zatrudnionych"
+     },
+    {
+      "id": 4,
+      "name": "Firma 51-250 zatrudnionych"
+     },
+    {
+      "id": 5,
+      "name": "Firma powyżej 250 zatrudnionych"
+     }
+    
+    ] 
+}
+
+

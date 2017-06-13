@@ -1,6 +1,9 @@
 {
   "job_preferences": {
-    "position": [],
+    "position": [
+      "pracownik biurowy",
+      "mechanik"
+    ],
     "additional_position": "fsdfsdfsdf",
     "position_level": [
       [
