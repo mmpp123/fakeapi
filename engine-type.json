@@ -1,0 +1,33 @@
+ 
+{ 
+  "engine_type": [
+    {
+      "id": 1,
+      "name": "Benzynowy"
+     },
+    {
+      "id": 2,
+      "name": "Benzynowy z doładowaniem"
+     },
+    {
+      "id": 3,
+      "name": "Benzynowy z LPG"
+     },
+    {
+      "id": 4,
+      "name": "Diesel"
+     },
+    {
+      "id": 5,
+      "name": "Hybrydowy"
+     },
+    {
+      "id": 6,
+      "name": "Elektryczny"
+     }
+    
+    ] 
+}
+
+ 
+
